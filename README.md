@@ -19,17 +19,16 @@ Django is an MVT web framework that is used to build web applications.Django has
 
 ## 📸 ScreenShots
 <figure>
-  <img
-  src="gitp/1.png"
-  src="gitp/2.png"
-  src="gitp/3.png"
-  src="gitp/4.png"
-  src="gitp/5.png"
-  src="gitp/6.png"
-  src="gitp/7.png"
-  src="gitp/8.png"
- 
+  <img src="gitp/1.png" alt="Image 1">
+  <img src="gitp/2.png" alt="Image 2">
+  <img src="gitp/3.png" alt="Image 3">
+  <img src="gitp/4.png" alt="Image 4">
+  <img src="gitp/5.png" alt="Image 5">
+  <img src="gitp/6.png" alt="Image 6">
+  <img src="gitp/7.png" alt="Image 7">
+  <img src="gitp/8.png" alt="Image 8">
 </figure>
+
 
 ## Installation : 
 ```
